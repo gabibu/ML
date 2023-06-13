@@ -76,7 +76,7 @@
     }
    ],
    "source": [
-    "df = pd.read_parquet('/Users/gabi.burabia/Downloads/home_assignment_data.parquet')\n",
+    "df = pd.read_parquet('home_assignment_data.parquet')\n",
     "len(df)"
    ]
   },
